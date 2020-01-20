@@ -2,9 +2,9 @@
   "title": "Berkay Yüksel Portfolio",
   "palette": "blue",
   "header": {
-    "title": "Azimuth",
+    "title": "Berkay Yüksel",
     "logo_img": "/images/mylogo.png",
-    "has_nav": true,
+    "has_nav": false,
     "menu": {
       "actions": []
     }
