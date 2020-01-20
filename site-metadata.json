@@ -4,9 +4,14 @@
   "header": {
     "title": "Berkay Yüksel",
     "logo_img": "/images/mylogo.png",
-    "has_nav": false,
+    "has_nav": true,
     "menu": {
-      "actions": []
+      "actions": [
+        {
+          "label": "Home",
+          "url": "/"
+        }
+      ]
     }
   },
   "footer": {
