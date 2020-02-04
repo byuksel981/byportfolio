@@ -8,8 +8,8 @@
     "menu": {
       "actions": [
         {
-          "label": "BLOG",
-          "url": "https://byportfolio-584fa.netlify.com/posts"
+          "label": "Blog",
+          "url": "https://byportfolio-584fa.netlify.com/blog/"
         }
       ]
     }
