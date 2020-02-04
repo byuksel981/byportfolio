@@ -1,12 +1,12 @@
 ---
-title: About Us
+title: About Me
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
 img_path: images/about.jpg
 menus:
   secondary:
-    title: About Us
+    title: About Me
     weight: 1
 template: page
 ---
